@@ -1,3 +1,9 @@
+# Description
+
+Inspired by the [Appwrite Example Auth Repository](https://github.com/appwrite/demos-for-react/tree/master/example-auth)
+
+Prepared for the [Appwrite Hackathon](https://dev.to/devteam/announcing-the-appwrite-hackathon-on-dev-1oc0)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
